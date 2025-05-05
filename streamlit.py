@@ -5,7 +5,13 @@ from tensorflow.keras.utils import load_img, img_to_array
 import numpy as np
 import pygame
 import tempfile
-pygame.mixer.init()
+
+
+# pygame.mixer.init() 'for streamlit cloud it creates problem'
+
+pygame.mixer.pre_init(frequency=44100, size=-16, channels=2, buffer=512)
+pygame.init()
+
 
 facemodel=cv2.CascadeClassifier('face.xml')
 eyesmodel=load_model('eye.h5')
