@@ -383,10 +383,15 @@ elif choice=='🌐 Web IP Camera':
 
 
 st.write("---")
-st.markdown(f"""**👨‍💻 Developed by Ashish Bonde** <br> 
-💬 **Interested in the Drowsiness Detection System?** <br> 
-📲 Connect with me on :<br>[LinkedIn](https://www.linkedin.com/in/ashish-bonde/)<br>[GitHub Profile](https://github.com/Ashish-Bonde)<br>
-[WhatsApp](https://api.whatsapp.com/send?phone=918484864084&text=Hi%20Ashish!%20I%20came%20across%20your%20Drowsiness%20Detection%20System%20and%20would%20love%20to%20connect%20to%20learn%20more%20about%20it.%20Let's%20connect!)
+st.markdown(f"""
+    <div style="text-align: left;">
+        <strong>👨‍💻 Developed by Ashish Bonde</strong><br> 
+        💬 <strong>Interested in the Drowsiness Detection System?</strong><br> 
+        📲 Connect with me on :<br>
+        <a href='https://www.linkedin.com/in/ashish-bonde/' target='_blank'>LinkedIn</a><br>
+        <a href='https://github.com/Ashish-Bonde' target='_blank'>GitHub Profile</a><br>
+        <a href='https://api.whatsapp.com/send?phone=918484864084&text=Hi%20Ashish!%20I%20came%20across%20your%20Drowsiness%20Detection%20System%20and%20would%20love%20to%20connect%20to%20learn%20more%20about%20it.%20Let's%20connect!' target='_blank'>WhatsApp</a>
+    </div>
 """, unsafe_allow_html=True)
 
 
