@@ -188,7 +188,7 @@ It also plays a **beep sound** as an alert when critical conditions are met.
 - **Name:** Ashish Bonde  
 - **GitHub:** [github.com/Ashish-Bonde](https://github.com/Ashish-Bonde)  
 - **LinkedIn:** [linkedin.com/in/ashish-bonde](https://www.linkedin.com/in/ashish-bonde/)  
-- **WhatsApp:** [+91 8484864084](https://api.whatsapp.com/send?phone=918484864084&text=Hi%20Ashish!%20I'm%20interested%20in%20your%20Drowsiness%20Detection%20System.%20Let's%20connect!)
+-  [**WhatsApp**](https://api.whatsapp.com/send?phone=918484864084&text=Hi%20Ashish!%20I'm%20interested%20in%20your%20Drowsiness%20Detection%20System.%20Let's%20connect!)
 
 ---
 
