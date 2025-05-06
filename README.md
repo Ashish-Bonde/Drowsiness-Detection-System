@@ -1,10 +1,3 @@
-Thank you for pointing that out. I'll create a **clean, well-formatted `README.md` file** for your GitHub repository based on the **Drowsiness Detection System** code and project structure.
-
----
-
-## ✅ Here's a Properly Formatted `README.md` File
-
-
 # 🚨 Drowsiness Detection System  
 ## Real-Time Yawn, Closed Eyes & Fatigue Detection Using ML
 
