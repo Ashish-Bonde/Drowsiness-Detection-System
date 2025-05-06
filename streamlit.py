@@ -382,7 +382,12 @@ elif choice=='🌐 Web IP Camera':
 
 
 
-
+st.write("---")
+st.markdown(f"""**👨‍💻 Developed by Ashish Bonde** <br> 
+💬 **Interested in the Drowsiness Detection System?** <br> 
+📲 Connect with me on :<br>[LinkedIn](https://www.linkedin.com/in/ashish-bonde/)<br>[GitHub Profile](https://github.com/Ashish-Bonde)<br>
+[WhatsApp](https://api.whatsapp.com/send?phone=918484864084&text=Hi%20Ashish!%20I%20came%20across%20your%20Drowsiness%20Detection%20System%20and%20would%20love%20to%20connect%20to%20learn%20more%20about%20it.%20Let's%20connect!)
+""", unsafe_allow_html=True)
 
 
 
